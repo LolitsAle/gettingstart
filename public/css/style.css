@@ -1,0 +1,28 @@
+h1 {
+    color: brown;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    align-content: center;
+}
+
+body{
+    
+    width: auto;
+    height: auto;
+}
+
+.footer{
+    background-color: darksalmon;
+    position: fixed;
+    bottom: 0pt;
+    text-align: center;
+}
+
+p{
+    
+    size: 20;
+    margin-top: 200;
+}
